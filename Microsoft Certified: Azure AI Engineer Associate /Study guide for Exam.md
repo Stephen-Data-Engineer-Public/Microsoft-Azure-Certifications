@@ -71,85 +71,85 @@
 >- Fine-tune an generative model
 
 ## Implement an agentic solution (5–10%)
-Create custom agents
-Understand the role and use cases of an agent
-Configure the necessary resources to build an agent
-Create an agent with the Azure AI Foundry Agent Service
-Implement complex agents with Semantic Kernel and Autogen
-Implement complex workflows including orchestration for a multi-agent solution, multiple users, and autonomous capabilities
-Test, optimize and deploy an agent
+>- Create custom agents
+>- Understand the role and use cases of an agent
+>- Configure the necessary resources to build an agent
+>- Create an agent with the Azure AI Foundry Agent Service
+>- Implement complex agents with Semantic Kernel and Autogen
+>- Implement complex workflows including orchestration for a multi-agent solution, multiple users, and autonomous capabilities
+>- Test, optimize and deploy an agent
 
 ## Implement computer vision solutions (10–15%)
 #### Analyze images
-Select visual features to meet image processing requirements
-Detect objects in images and generate image tags
-Include image analysis features in an image processing request
-Interpret image processing responses
-Extract text from images using Azure AI Vision
-Convert handwritten text using Azure AI Vision
+>- Select visual features to meet image processing requirements
+>- Detect objects in images and generate image tags
+>- Include image analysis features in an image processing request
+>- Interpret image processing responses
+>- Extract text from images using Azure AI Vision
+>- Convert handwritten text using Azure AI Vision
 
 #### Implement custom vision models
-Choose between image classification and object detection models
-Label images
-Train a custom image model, including image classification and object detection
-Evaluate custom vision model metrics
-Publish a custom vision model
-Consume a custom vision model
-Build a custom vision model code first
+>- Choose between image classification and object detection models
+>- Label images
+>- Train a custom image model, including image classification and object detection
+>- Evaluate custom vision model metrics
+>- Publish a custom vision model
+>- Consume a custom vision model
+>- Build a custom vision model code first
 
 #### Analyze videos
-Use Azure AI Video Indexer to extract insights from a video or live stream
-Use Azure AI Vision Spatial Analysis to detect presence and movement of people in video
+>- Use Azure AI Video Indexer to extract insights from a video or live stream
+>- Use Azure AI Vision Spatial Analysis to detect presence and movement of people in video
 
 ## Implement natural language processing solutions (15–20%)
 #### Analyze and translate text
-Extract key phrases and entities
-Determine sentiment of text
-Detect the language used in text
-Detect personally identifiable information (PII) in text
-Translate text and documents by using the Azure AI Translator service
+>- Extract key phrases and entities
+>- Determine sentiment of text
+>- Detect the language used in text
+>- Detect personally identifiable information (PII) in text
+>- Translate text and documents by using the Azure AI Translator service
 
 #### Process and translate speech
-Integrate generative AI speaking capabilities in an application
-Implement text-to-speech and speech-to-text using Azure AI Speech
-Improve text-to-speech by using Speech Synthesis Markup Language (SSML)
-Implement custom speech solutions with Azure AI Speech
-Implement intent and keyword recognition with Azure AI Speech
-Translate speech-to-speech and speech-to-text by using the Azure AI Speech service
+>- Integrate generative AI speaking capabilities in an application
+>- Implement text-to-speech and speech-to-text using Azure AI Speech
+>- Improve text-to-speech by using Speech Synthesis Markup Language (SSML)
+>- Implement custom speech solutions with Azure AI Speech
+>- Implement intent and keyword recognition with Azure AI Speech
+>- Translate speech-to-speech and speech-to-text by using the Azure AI Speech service
 
 #### Implement custom language models
-Create intents, entities, and add utterances
-Train, evaluate, deploy, and test a language understanding model
-Optimize, backup, and recover language understanding model
-Consume a language model from a client application
-Create a custom question answering project
-Add question-and-answer pairs and import sources for question answering
-Train, test, and publish a knowledge base
-Create a multi-turn conversation
-Add alternate phrasing and chit-chat to a knowledge base
-Export a knowledge base
-Create a multi-language question answering solution
-Implement custom translation, including training, improving, and publishing a custom model
+>- Create intents, entities, and add utterances
+>- Train, evaluate, deploy, and test a language understanding model
+>- Optimize, backup, and recover language understanding model
+>- Consume a language model from a client application
+>- Create a custom question answering project
+>- Add question-and-answer pairs and import sources for question answering
+>- Train, test, and publish a knowledge base
+>- Create a multi-turn conversation
+>- Add alternate phrasing and chit-chat to a knowledge base
+>- Export a knowledge base
+>- Create a multi-language question answering solution
+>- Implement custom translation, including training, improving, and publishing a custom model
 
 ## Implement knowledge mining and information extraction solutions (15–20%)
 #### Implement an Azure AI Search solution
-Provision an Azure AI Search resource, create an index, and define a skillset
-Create data sources and indexers
-Implement custom skills and include them in a skillset
-Create and run an indexer
-Query an index, including syntax, sorting, filtering, and wildcards
-Manage Knowledge Store projections, including file, object, and table projections
-Implement semantic and vector store solutions
+>- Provision an Azure AI Search resource, create an index, and define a skillset
+>- Create data sources and indexers
+>- Implement custom skills and include them in a skillset
+>- Create and run an indexer
+>- Query an index, including syntax, sorting, filtering, and wildcards
+>- Manage Knowledge Store projections, including file, object, and table projections
+>- Implement semantic and vector store solutions
 
 #### Implement an Azure AI Document Intelligence solution
-Provision a Document Intelligence resource
-Use prebuilt models to extract data from documents
-Implement a custom document intelligence model
-Train, test, and publish a custom document intelligence model
-Create a composed document intelligence model
+>- Provision a Document Intelligence resource
+>- Use prebuilt models to extract data from documents
+>- Implement a custom document intelligence model
+>- Train, test, and publish a custom document intelligence model
+>- Create a composed document intelligence model
 
 #### Extract information with Azure AI Content Understanding
-Create an OCR pipeline to extract text from images and documents
-Summarize, classify, and detect attributes of documents
-Extract entities, tables, and images from documents
-Process and ingest documents, images, videos, and audio with Azure AI Content Understanding
+>- Create an OCR pipeline to extract text from images and documents
+>- Summarize, classify, and detect attributes of documents
+>- Extract entities, tables, and images from documents
+>- Process and ingest documents, images, videos, and audio with Azure AI Content Understanding
